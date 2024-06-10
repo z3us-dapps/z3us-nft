@@ -3,7 +3,7 @@ Olympians Eternal
 
 Unveil the majesty of the ancients with the 'Olympians Eternal' NFT collection. This exclusive series celebrates the twelve iconic deities of Greek mythology, each piece a digital homage to their legends and lore. Crafted with artistic finesse and a deep reverence for mythological narratives, each NFT immortalizes these celestial figures with stunning visuals and intricate details, echoing their divine powers and roles in ancient stories.
 
-<p align="center"><img height="180px" src="olympians-eternal.png" alt="logo" /></p>
+<p align="center"><img height="180px" src="icon.png" alt="logo" /></p>
 
 Each NFT in this divine assembly is crafted with reverence to the myths that have shaped civilizations, inviting collectors to partake in the timeless narrative of gods who have inspired human ethos from antiquity to the stars beyond. Embrace the opportunity to own a piece of this celestial heritage, a collection that not only honors the past but also immortalizes it for future generations.
 
